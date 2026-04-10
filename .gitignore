@@ -1,2 +1,11 @@
 house-prices-advanced-regression-techniques/
 .idea/
+.env
+*.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+mlruns/
+artifacts/
+submission.csv
+.DS_Store

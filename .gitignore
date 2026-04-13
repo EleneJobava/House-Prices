@@ -8,5 +8,4 @@ __pycache__/
 .ipynb_checkpoints/
 mlruns/
 artifacts/
-submission.csv
 .DS_Store

@@ -1,4 +1,6 @@
 house-prices-advanced-regression-techniques/
+artifacts/
+catboost_info/
 .idea/
 .env
 *.env
